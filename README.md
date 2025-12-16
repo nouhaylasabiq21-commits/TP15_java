@@ -44,6 +44,29 @@ Voici les résultats d’exécution des différents exercices :
 - L’exécution  :
 ![Exécution 8](screenshots/image8.png)
 
+### CompositionFonctions.java
+![Exécution 9](screenshots/compos.png)
+
+### ExceptionsLambda.java
+![Exécution 10](screenshots/Exceptions.png)
+
+### ValidationFormulaire.java
+
+![Exécution 11](screenshots/validateur.png)
+
+### TriFunctionDemo.java
+
+![Exécution 12](screenshots/trifonction.png)
+
+### CompteurTODO.java
+
+![Exécution 13](screenshots/compteurtodo.png)
+
+### FactorielleStream.java
+
+![Exécution 14](screenshots/factorielle.png)
+
+
 
 ---
 
